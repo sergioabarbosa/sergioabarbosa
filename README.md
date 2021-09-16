@@ -8,10 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Software Developer and Systems Analyst
 - 🌱 I’m currently learning Web Development in Trybe
 - 👯 I’m looking to collaborate on Software Developer
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ E-mail: sergio.alvesbarbosa@gmail.com
+- 💬 Ask me about Programing
+- 📫 How to reach me: secondary e-mail: sergiobarbosa@yahoo.com.br
+- 📫 Primary e-mail: sergio.alvesbarbosa@gmail.com
 <div>
   <a href="https://github.com/sergioabarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
