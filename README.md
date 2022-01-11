@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Programing
 - 📫 How to reach me: secondary e-mail: sergiobarbosa@yahoo.com.br
 - 📫 Primary e-mail: sergio.alvesbarbosa@gmail.com
-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div>
   <a href="https://github.com/sergioabarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergioabarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
