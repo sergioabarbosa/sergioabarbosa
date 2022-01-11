@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-:brazil:
 - 🔭 I’m currently working on Software Developer and Systems Analyst
 - 🌱 I’m currently learning Web Development in Trybe
 - 👯 I’m looking to collaborate on Software Developer
