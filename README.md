@@ -1,5 +1,3 @@
-[![Header](https://github.com/sergioabarbosa/sergioabarbosa/raw/master/profile.gif)](https://www.adamalston.com/)
-
 ### Olá, sou Sérgio Alves Barbosa👋
 
 <
