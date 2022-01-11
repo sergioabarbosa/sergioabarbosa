@@ -1,6 +1,6 @@
 ### Olá, sou Sérgio Alves Barbosa👋
 
-[![Header](https://github.com/sergioabarbosa/sergioabarbosa/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
 **sergioabarbosa/sergioabarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
