@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Software Developer and Systems Analyst
 - 🌱 I’m currently learning Web Development in Trybe
-- 👯 I’m looking to collaborate on Software Developer
+- 👯 Open to work!
 - 💬 Ask me about Programing
 - 📫 How to reach me: secondary e-mail: sergiobarbosa@yahoo.com.br
 - 📫 Primary e-mail: sergio.alvesbarbosa@gmail.com
